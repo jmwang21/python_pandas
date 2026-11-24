@@ -1,6 +1,6 @@
 # Python Pandas — LeetCode 30 Days of Pandas
 
-33 practice notebooks, 97 alternative solutions (2–3 per problem). Pandas-first, no direct NumPy usage. Includes 30 core questions and 3 bonus questions. Each notebook includes an English problem summary with source links, original runnable example data, expected result, a blank practice cell, independent solutions and Chinese notes, and executable example assertions.
+33 practice notebooks, 97 alternative solutions (2–3 per problem). Pandas-first, no direct NumPy usage. Includes 30 core questions and 3 bonus questions. Each notebook includes a self-contained English problem description, table schemas, key constraints, original sample input/output tables, example explanation, runnable example DataFrames, a blank practice cell, independent solutions and Chinese notes, and executable example assertions.
 
 ## How to practice
 
@@ -9,7 +9,7 @@ python -m pip install -r requirements.txt
 jupyter lab
 ```
 
-Open a notebook, run the input cell, try the blank practice cell, then compare approaches. Each solution receives a copy of the input; #196 demonstrates in-place mutation. Function names solution_1, solution_2, etc. are for learning; rename to the LeetCode function when submitting. Example assertions are supplied but full runtime execution and hidden-test acceptance have not been verified.
+Open a notebook and read the full question and input/output tables directly on GitHub (no external link required). Run the input cell, try the blank practice cell, then compare approaches. Each solution receives a copy of the input; #196 demonstrates in-place mutation. Function names solution_1, solution_2, etc. are for learning; rename to the LeetCode function when submitting. Example assertions are supplied but full runtime execution and hidden-test acceptance have not been verified.
 
 ## References
 
